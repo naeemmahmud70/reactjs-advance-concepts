@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <HOC></HOC>
       <Refs></Refs>
+      <h2>Pushing after cloning</h2>
     </div>
   );
 }
