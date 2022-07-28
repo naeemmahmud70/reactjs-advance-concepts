@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <HOC></HOC>
       <Refs></Refs>
+      <h2>Local branch is created</h2>
     </div>
   );
 }
